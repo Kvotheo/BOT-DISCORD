@@ -24,7 +24,7 @@ for (const file of commandFiles){
     if("data" in command && "execute" in command){
 
     }
-    // MIN 38:21
+    
 }
 
 
