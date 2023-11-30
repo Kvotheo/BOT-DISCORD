@@ -7,6 +7,7 @@ dotenv.config()
 const { TOKEN } = process.env
 
 
+
 // importação dos comandos
 const fs = require("node:fs")
 const path = require("node:path")
